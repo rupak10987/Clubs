@@ -1,0 +1,16 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "036d15fa-2211-401e-8f25-174a9959241f": {
+      "ProjectGuid": "036d15fa-2211-401e-8f25-174a9959241f",
+      "DisplayName": "Clubs",
+      "ColorIndex": 0
+    },
+    "28b954ca-1d14-43da-a3fa-c82d16ac532e": {
+      "ProjectGuid": "28b954ca-1d14-43da-a3fa-c82d16ac532e",
+      "DisplayName": "SandBox",
+      "ColorIndex": 1
+    }
+  },
+  "NextColorIndex": 2
+}
