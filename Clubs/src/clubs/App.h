@@ -1,5 +1,6 @@
 #pragma once
 #include"core.h"
+#include<stdio.h>
 namespace Clubs
 {
 	class CLUB_API App

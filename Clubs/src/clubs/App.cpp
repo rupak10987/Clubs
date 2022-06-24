@@ -1,9 +1,10 @@
 #include "App.h"
+#include<iostream>
 namespace Clubs
 {
 	App::App()
 	{
-
+		std::cout << "hello" << std::endl;
 	}
 	 App::~App()
 	{
@@ -11,9 +12,9 @@ namespace Clubs
 	}
 	 void App::Run()
 	 {
-		 while (true)
+		while (true)
 		 {
-
+			
 		 }
 	 }
 }
