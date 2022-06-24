@@ -1,0 +1,6 @@
+#pragma once
+#include"Clubs/App.h"
+#include<stdio.h>
+//entry point...........
+#include"Clubs/EntryPoint.h"
+//......................
